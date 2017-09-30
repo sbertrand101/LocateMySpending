@@ -1,0 +1,22 @@
+{
+  "name": "locate-my-spending",
+  "version": "1.0.0",
+  "description": "Tracks your transactions and checks whether your phone is located where the spending is occurring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test yet'"
+  },
+  "keywords": [
+    "GoogleMaps",
+    "Bandwidth",
+    "CapitalOne",
+    "location",
+    "transaction",
+    "account",
+    "merchant",
+    "longitude",
+    "latitude"
+  ],
+  "author": "Stephanie Bertrand",
+  "license": "MIT"
+}
