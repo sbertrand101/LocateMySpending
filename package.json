@@ -4,7 +4,8 @@
   "description": "Tracks your transactions and checks whether your phone is located where the spending is occurring",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'no test yet'"
+    "test": "echo 'no test yet'",
+    "start": "node index.js"
   },
   "keywords": [
     "GoogleMaps",
@@ -18,5 +19,11 @@
     "latitude"
   ],
   "author": "Stephanie Bertrand",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "node-bandwidth": "^2.4.0",
+    "save": "^2.3.1"
+  }
 }
